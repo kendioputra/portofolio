@@ -16,5 +16,5 @@ Website ini tampil rapi di ponsel, tablet, dan laptop.
 - Git dan GitHub
 - VS Code dan Live server
 ## Tautan
-- Website: menyusul setelah *deploy* ke Vercel
+- Website: https://kendio-portofolio.vercel.app/
 - Dibuat oleh: Kendio Juan Renjiro Putra, SMK Mitra
